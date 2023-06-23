@@ -46,7 +46,7 @@ class _HomePageState extends State<HomePage> {
                       ],
                     ),
                   ),
-                  CircleAvatar(backgroundImage: AssetImage('images/avata.jpg'))
+                  CircleAvatar(backgroundImage: AssetImage('images/avata.png'))
                 ]),
               ],
             ),
